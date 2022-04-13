@@ -14,7 +14,7 @@
   <name>Restcomm :: Diameter Stack :: ${project.artifactId}</name>
 
   <properties>
-    <vendor>Mobicents</vendor>
+    <vendor>Devang</vendor>
   </properties>
 
   <dependencies>
